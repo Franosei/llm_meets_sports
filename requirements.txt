@@ -1,0 +1,4 @@
+ipykernel
+llama-index
+nest_asyncio
+pandas
