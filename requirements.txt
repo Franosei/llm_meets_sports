@@ -1,4 +1,7 @@
+pandas
 ipykernel
 llama-index
 nest_asyncio
-pandas
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama-index-llms-huggingface
